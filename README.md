@@ -1,2 +1,2 @@
 # Globe-Trails
-An air BNB Replica
+An Air BNB Replica
